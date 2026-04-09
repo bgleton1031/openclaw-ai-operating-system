@@ -1,7 +1,7 @@
 <h1> Building a Governed AI Operating System </h1>
 <h2> A Vault-Based AI System Using OpenClaw </h2>
 <h3> Overview </h3>
-
+ 
 <p>This project began as a simple experiment: install a local AI agent and see what it could do.
 
 But as I started wiring the pieces together, something interesting happened.

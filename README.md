@@ -42,7 +42,7 @@ The system is containerized for deployment portability. AWS ECS integration is i
 
 <h2>What This Demonstrates</h2>
 
-<img width="674" height="402" alt="image" src="https://github.com/user-attachments/assets/2a0d82cb-8ef9-4a8b-b62f-584b2d3c594e" />
+<img width="712" height="390" alt="image" src="https://github.com/user-attachments/assets/7be5b8f5-6d76-44f5-bf4b-8dd55fdd9c14" />
 
 <h2>Target Deployment Context</h2>
 
